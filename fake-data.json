@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ASG Dan Wesson CO2 Airgun Revolver.177cal/4.5mm Pellet",
+    "price": 300,
+    "image": "https://m.media-amazon.com/images/I/51Jgi6V0S7S._AC_SX679_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Umarex Colt 6 Python .177 Caliber Steel BB C02 Air Pistol, Powdered Black",
+    "price": 400,
+    "image": "https://m.media-amazon.com/images/I/61W1iNjiYSL._AC_SX679_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Umarex Colt Peacemaker Revolver Single Action Army Six-Shooter .177 Caliber Air Pistol",
+    "price": 450,
+    "image": "https://m.media-amazon.com/images/I/51e1Spa+PjL._AC_SX679_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Denix Lonestar .45 Revolver - Non-Firing Replica",
+    "price": 350,
+    "image": "https://m.media-amazon.com/images/I/418E3ApktQL._AC_.jpg"
+  }
+]

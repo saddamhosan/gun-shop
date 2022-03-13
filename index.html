@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- tailwind link  -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>GUN SHOP</title>
+  </head>
+  <body>
+    <!-- navbar stat -->
+    <header class="bg-slate-400 pb-10">
+      <nav class="flex justify-between bg-blue-300 p-4">
+        <div>
+          <h2>Gun Shop</h2>
+        </div>
+        <div>
+          <a href="" class="p-4 mx-4">home</a>
+          <a href="" class="p-4 mx-4">Resume</a>
+          <a href="" class="p-4 mx-4">Project</a>
+          <a href="" class="p-4 mx-4">contact</a>
+        </div>
+      </nav>
+      <!-- slider start -->
+      <div class="mt-4 w-3/4 mx-auto h-[80vh]">
+        <img class="w-full h-full object-fill" id="slider" />
+      </div>
+    </header>
+    <!-- navbar end -->
+    <main>
+      <section id="detail-container">
+        <!-- <div></div> -->
+        <!-- <div id="calculate" class="w-1/4 border flex justify-center my-4 pt-4">
+          <div>
+            <button class="border-2 px-2" id="minusBtn">-</button>
+            <input
+              class="border-2 w-16"
+              type="number"
+              id="quantity"
+              value="0"
+            />
+            <button class="border-2 px-2" id="plusBtn">+</button>
+            <p>price:$ <span id="price-field">00</span></p>
+          </div>
+        </div> -->
+      </section>
+      <section class="grid grid-cols-3 gap-5" id="card-container"></section>
+    </main>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>
